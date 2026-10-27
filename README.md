@@ -6,7 +6,7 @@ What I build is tooling for running a law practice with AI assistants: specialis
 
 The reason is arithmetic. Most people with a real legal problem never see a lawyer because an hour of legal help costs more than they have. If the cost of producing legal work comes down, more of those files get taken.
 
-[Claude Command](https://github.com/Davemadgett/claude-command) is the first piece worth packaging. It's a kanban board over your Claude Code sessions, for the Mac: every session in flight on one screen, each carrying the client, case or project it belongs to.
+[SessionCommand](https://github.com/Davemadgett/claude-command) is the first piece worth packaging. It's a kanban board over your Claude Code sessions, for the Mac: every session in flight on one screen, each carrying the client, case or project it belongs to.
 
 I write about how all of this works, for other lawyers, in the [Practice Lab](https://www.madgettlaw.com/practice-lab/). The software is listed at [madgettlaw.com/software](https://www.madgettlaw.com/software/).
 
